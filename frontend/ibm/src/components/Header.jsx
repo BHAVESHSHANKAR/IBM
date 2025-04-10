@@ -79,7 +79,7 @@ const Header = ({ toggleSidebar }) => {
             <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 2.18l7 3.12v5.7c0 4.83-3.4 9.12-7 10.18-3.6-1.06-7-5.35-7-10.18V6.3l7-3.12z"/>
             <path d="M11 7h2v6h-2zm0 8h2v2h-2z"/>
           </LogoSvg>
-          <span>Data Encryption Assessment</span>
+          <span>Data Encryption Assessment test</span>
         </Logo>
       </div>
       <RightSection />
