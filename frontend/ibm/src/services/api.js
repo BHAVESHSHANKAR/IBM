@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://ibm-api-ker3.onrender.com/api';
 
 // Create axios instance with error handling
 const apiClient = axios.create({
