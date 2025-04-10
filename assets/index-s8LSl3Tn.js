@@ -131,7 +131,7 @@ Error generating stack: `+n.message+`
 `,rb=ie.div`
   display: flex;
   align-items: center;
-`,ub=({toggleSidebar:a})=>g.jsxs(nb,{children:[g.jsxs("div",{style:{display:"flex",alignItems:"center"},children:[g.jsx(ab,{onClick:a,"aria-label":"Toggle sidebar",children:"☰"}),g.jsxs(lb,{children:[g.jsxs(ib,{width:"28",height:"28",viewBox:"0 0 24 24",fill:"white",children:[g.jsx("path",{d:"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 2.18l7 3.12v5.7c0 4.83-3.4 9.12-7 10.18-3.6-1.06-7-5.35-7-10.18V6.3l7-3.12z"}),g.jsx("path",{d:"M11 7h2v6h-2zm0 8h2v2h-2z"})]}),g.jsx("span",{children:"Data Encryption Assessment test"})]})]}),g.jsx(rb,{})]}),cb=ie.nav`
+`,ub=({toggleSidebar:a})=>g.jsxs(nb,{children:[g.jsxs("div",{style:{display:"flex",alignItems:"center"},children:[g.jsx(ab,{onClick:a,"aria-label":"Toggle sidebar",children:"☰"}),g.jsxs(lb,{children:[g.jsxs(ib,{width:"28",height:"28",viewBox:"0 0 24 24",fill:"white",children:[g.jsx("path",{d:"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm0 2.18l7 3.12v5.7c0 4.83-3.4 9.12-7 10.18-3.6-1.06-7-5.35-7-10.18V6.3l7-3.12z"}),g.jsx("path",{d:"M11 7h2v6h-2zm0 8h2v2h-2z"})]}),g.jsx("span",{children:"Data Encryption Assessment"})]})]}),g.jsx(rb,{})]}),cb=ie.nav`
   position: absolute;
   top: 0;
   left: 0;
